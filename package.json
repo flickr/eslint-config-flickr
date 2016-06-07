@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-flickr",
+  "version": "1.1.7",
+  "description": "Flickr's cool eslint config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js test.js .eslint.js",
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "flickr",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Jeremy Ruppel",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "~2.10.2",
+    "mocha": "~2.5.3"
+  }
+}
