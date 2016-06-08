@@ -2,6 +2,8 @@
 
 Flickr's cool [eslint][1] config.
 
+[![Build Status](https://travis-ci.org/flickr/eslint-config-flickr.svg?branch=master)](https://travis-ci.org/flickr/eslint-config-flickr)
+
 ## install
 
 ```
