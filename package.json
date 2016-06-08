@@ -12,6 +12,10 @@
     "eslint",
     "eslintconfig"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flickr/eslint-config-flickr.git"
+  },
   "author": "Jeremy Ruppel",
   "license": "MIT",
   "devDependencies": {
