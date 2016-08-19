@@ -67,7 +67,7 @@ module.exports = {
     'space-in-parens': 'error',
     'space-infix-ops': 'error',
     'space-unary-ops': 'error',
-    'spaced-comment': 'error',
+    'spaced-comment': ['error', 'always', {block: {markers: ['!']}}],
     // TODO re-enable when eslint/eslint#6238 is resolved
     // @see https://github.com/eslint/eslint/issues/6238
     // 'valid-jsdoc': ['error', {requireReturnDescription: false}],
