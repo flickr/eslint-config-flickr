@@ -20,7 +20,7 @@ module.exports = {
     'keyword-spacing': 'error',
     'linebreak-style': 'error',
     'max-depth': ['error', 2 + 3],
-    'max-params': ['error', 8],
+    'max-params': ['error', Math.pow(2, 3)],
     'newline-after-var': 'error',
     'no-array-constructor': 'error',
     'no-caller': 'error',
