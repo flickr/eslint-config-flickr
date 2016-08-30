@@ -41,6 +41,7 @@ module.exports = {
     'no-new-object': 'error',
     'no-new-wrappers': 'error',
     'no-proto': 'error',
+    'no-restricted-globals': ['error', 'event', 'self'],
     'no-script-url': 'error',
     'no-sequences': 'error',
     'no-shadow': 'error',
