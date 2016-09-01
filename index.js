@@ -23,6 +23,7 @@ module.exports = {
     'max-params': ['error', Math.pow(2, 3)],
     'newline-after-var': 'error',
     'no-array-constructor': 'error',
+    'no-bitwise': 'error',
     'no-caller': 'error',
     'no-console': 'warn',
     'no-eq-null': 'error',
