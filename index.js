@@ -52,7 +52,7 @@ module.exports = {
     'no-undef': 'error',
     'no-unneeded-ternary': 'error',
     'no-unused-expressions': 'error',
-    'no-unused-vars': 'error',
+    'no-unused-vars': ['error', {args: 'none'}],
     'no-use-before-define': 'error',
     'no-useless-escape': 'error',
     'no-whitespace-before-property': 'error',
