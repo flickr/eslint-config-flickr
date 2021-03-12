@@ -4,7 +4,7 @@
   "description": "Flickr's cool eslint config",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint index.js test.js .eslint.js",
+    "lint": "eslint index.js test.js .eslintrc.js",
     "test": "mocha test.js"
   },
   "files": [],
