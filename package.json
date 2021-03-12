@@ -20,7 +20,7 @@
   "author": "Jeremy Ruppel",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.18.2",
+    "eslint": "7.21.0",
     "mocha": "^6.1.4"
   }
 }
