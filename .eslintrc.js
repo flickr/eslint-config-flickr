@@ -6,6 +6,7 @@ module.exports = {
   },
 
   rules: {
-    'quotes': ['error', 'single']
+    'quotes': ['error', 'single'],
+    'quote-props': ['error', 'consistent']
   }
 };

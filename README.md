@@ -2,7 +2,7 @@
 
 Flickr's cool [eslint][1] config.
 
-[![Build Status](https://travis-ci.org/flickr/eslint-config-flickr.svg?branch=master)](https://travis-ci.org/flickr/eslint-config-flickr)
+[![Build Status](https://github.com/flickr/eslint-config-flickr/actions/workflows/ci.yaml/badge.svg)](https://github.com/flickr/eslint-config-flickr/actions/workflows/ci.yaml)
 
 ## install
 
